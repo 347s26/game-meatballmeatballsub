@@ -7,3 +7,16 @@
 ## Website
 The idea is to recreate the game waffle as found at the website below:
 https://wafflegame.net/archive
+
+# Data It Exists!!
+Waffle:
+- words
+
+Word: 
+- correct_spelling: string
+- current_letters: array of Letters
+
+Letter: 
+- character: char
+- correct_place: bool
+- in_word: bool
