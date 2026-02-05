@@ -10,7 +10,12 @@ https://wafflegame.net/archive
 
 # Data It Exists!!
 Waffle:
-- words
+- top_row_word
+- middle_row_word
+- bottom_row_word
+- left_col_word
+- middle_col_word
+- right_col_word
 
 Word: 
 - correct_spelling: string
