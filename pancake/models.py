@@ -2,7 +2,7 @@ from django.db import models
 
 #https://docs.djangoproject.com/en/6.0/topics/db/examples/
 #https://docs.djangoproject.com/en/6.0/ref/models/fields/#field-types
-# https
+# TODO: we need to add membership to words and letters, look at the many to many fields and add its own membership
 
 # One user has one waffle
 # One waffle has many words
