@@ -26,3 +26,10 @@ Letter:
 - character: char
 - correct_place: bool
 - in_word: bool
+
+# User:
+User can control theming?
+
+## Two-Player Ideas
+- Players compete against each other
+- Whoever finishes first with the least amount of swaps wins
