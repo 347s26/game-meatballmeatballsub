@@ -20,7 +20,7 @@ class Waffle(models.Model):
   num_turns_left = models.IntegerField()
 
 class User(models.Model):
-  waffle = models.OneToOneField(Waffle)
+  waffle = models.OneToOneField(Waffle, on_delete=models.DO_NOTHING)
     
 
 
